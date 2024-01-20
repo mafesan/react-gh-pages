@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa868b09.css",
-    "main.js": "/static/js/main.0ec04fb3.js",
-    "static/media/AvenirNextLTPro-Demi.otf": "/static/media/AvenirNextLTPro-Demi.34bbdc447d8fefe3af11.otf",
-    "index.html": "/index.html",
-    "main.fa868b09.css.map": "/static/css/main.fa868b09.css.map",
-    "main.0ec04fb3.js.map": "/static/js/main.0ec04fb3.js.map"
+    "main.css": "/mafesan.github.io/react-gh-pages/static/css/main.fa868b09.css",
+    "main.js": "/mafesan.github.io/react-gh-pages/static/js/main.0c8fe025.js",
+    "static/media/AvenirNextLTPro-Demi.otf": "/mafesan.github.io/react-gh-pages/static/media/AvenirNextLTPro-Demi.34bbdc447d8fefe3af11.otf",
+    "index.html": "/mafesan.github.io/react-gh-pages/index.html",
+    "main.fa868b09.css.map": "/mafesan.github.io/react-gh-pages/static/css/main.fa868b09.css.map",
+    "main.0c8fe025.js.map": "/mafesan.github.io/react-gh-pages/static/js/main.0c8fe025.js.map"
   },
   "entrypoints": [
     "static/css/main.fa868b09.css",
-    "static/js/main.0ec04fb3.js"
+    "static/js/main.0c8fe025.js"
   ]
 }
